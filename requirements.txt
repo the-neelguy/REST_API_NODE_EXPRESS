@@ -1,0 +1,6 @@
+Things to be downloaded and installed - 
+
+1. Node JS
+2. Express JS
+3. Postman
+4. Dummy Data for testing from Mockaroo

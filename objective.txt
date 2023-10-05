@@ -1,0 +1,25 @@
+REST API - JSON
+
+1. GET /api/car - Give the list of car
+
+2. GET /api/car/1 - Get the details of car with ID as 1
+   GET /api/car/2 - Get the details of car with ID as 2
+
+
+
+3. POST /api/car - Create a new car
+
+4. PATCH /api/car/1 - Edit the car with ID = 1
+
+5. DELETE /api/car/3 - Delete the car with ID = 3
+
+
+---- So, the /api/car is used to see raw JSON data in the server which can be further used for development.
+
+                                                AND
+
+---- But the /car is used for normal users which will render a HTML page to show the same data in HTML format (frontend)
+
+
+
+
